@@ -1,2 +1,2 @@
-# NewRailsApp
+# newrailsapp
 Store a new RailsApp
